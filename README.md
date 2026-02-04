@@ -73,10 +73,4 @@
 
 ---
 
-## ✉️ Author
-
-- Tala — https://sy.linkedin.com/in/talah-hjaij
-
----
-
 **Enjoy using Tech Order!** ✨
